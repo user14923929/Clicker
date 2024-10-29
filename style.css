@@ -1,0 +1,13 @@
+body {
+    background-color: #474747;
+    color: #FFFFFF;
+    font-family: monospace;
+}
+
+.buttonClick{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    filter: drop-shadow(3px 3px 10px #FFFFFF);
+    position: fixed;
+}
